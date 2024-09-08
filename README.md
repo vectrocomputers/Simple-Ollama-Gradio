@@ -6,7 +6,7 @@ This can run on a basic Linux computer. Based on testing, gemma 2 2B can run on 
 The script was written and tested on Ubuntu 24.04.1.
 
 To run:
-./ollama_gradio.sh
+./start_chat.sh
 Connect your browser to http://127.0.0.1:7860
 ctrl+c to exit when finished
 
